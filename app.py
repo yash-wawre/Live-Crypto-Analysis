@@ -6,7 +6,6 @@ import plotly.express as px
 import json
 import numpy as np
 from binance.client import Client
-import mplfinance as mpf
 import matplotlib.pyplot as plt
 import os
 import asyncio
